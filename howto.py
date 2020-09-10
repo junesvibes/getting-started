@@ -20,35 +20,35 @@ phrase = "Giraffe Academy"
 
 
 print(phrase + " is cool!")
-print("Using the addition sign to add things with strings")
+#Using the addition sign to add things with strings
 print(space)
 
 print(phrase.upper() .isupper())
-print ("Making things uppercase and true and falsing it")
+#Making things uppercase and true and falsing it
 print(space)
 
 print(len(phrase))
-print("Checking the length of a string")
+#Checking the length of a string
 print(space)
 
 print(phrase[3])
-print("Using the square bracket to find a certain character with the corrensponding number\n(a phrase always start with zero)")
+#Using the square bracket to find a certain character with the corrensponding number phrase always start with zero
 print(space)
 
 print(phrase.index("G"))
-print("Using the index to find the corrensponding number with the character.")
+#Using the index to find the corrensponding number with the character
 print(space)
 
 print(phrase.index ("Academy"))
-print("Using the index to find the corrensponding number with the word.")
+#Using the index to find the corrensponding number with the word
 print ("\n")
 
 print(phrase.replace("Giraffe", "Elephant"))
-print("Using the replace function to replace words.")
+#Using the replace function to replace words
 print (space)
 
 print( 3 * (4 + 5 ))
-print("Using numbers for math")
+#Using numbers for math
 print (space)
 
 print(10%3)
@@ -59,37 +59,36 @@ from math import *
 my_num = -4049166203
 print(str(my_num) + " my favorite number")
 print(space)
-print("Using string function to combine phrases and words ")
+#Using string function to combine phrases and words
 print(space)
 
 print(abs(my_num))
-print("Using the absolute function to find the absolute number")
+#Using the absolute function to find the absolute number
 print(space)
 
 print(pow(3, 2))
-print("Using the power function to put numbers against the power of another number.")
+#Using the power function to put numbers against the power of another number
 print(space)
 
 print(max (3, 2))
-print("Max function tells you which of the two numbers are bigger")
+#Max function tells you which of the two numbers are bigger
 print(space)
 
 print(min (3, 2))
-print("Min function tells you which of the two numbers are smaller")
+#Min function tells you which of the two numbers are smaller
 print(space)
 
 print(round(3.2))
 print(round(3.7))
-print("The round function rounds up the decimal to nearest whole number.")
+#The round function rounds up the decimal to nearest whole number.")
 print(space)
 
 print(floor(3.7))
-print("Floor function looks for the lowest number \n"
-      "essentially chopping off the decimal point")
+#Floor function looks for the lowest number essentially chopping off the decimal point
 print(space)
 
 print(sqrt(36))
-print("The sqrt function returns the number back to the square root.")
+#The sqrt function returns the number back to the square root
 print(space)
 
 name = input("Enter your name: ")
@@ -97,8 +96,7 @@ age = input("Enter your age: ")
 print("Hello " + name+ "! You are " + age +"!" )
 print(space)
 
-print("The int function makes the variables into intergers \n"
-      "aka a whole number.")
+#The int function makes the variables into intergers aka a whole number
 num1 = input("Enter a number: ")
 num2 = input("Enter another number: ")
 result = int(num1) + int(num2)
@@ -106,7 +104,7 @@ result = int(num1) + int(num2)
 print(result)
 print(space)
 
-print("The float function makes it to that you can use decimals as well as whole numbers")
+#The float function makes it to that you can use decimals as well as whole numbers
 num1 = input("Enter a number: (Use a decimal) ")
 num2 = input("Enter another number: (Use another decimal) ")
 result1= float(num1) + float(num2)
@@ -124,8 +122,7 @@ print(plural_noun +  " are blue")
 print("I love "+ celebrity +  "!")
 print(space)
 
-print("Whenever you use square brackets \n "
-      "python recognizes that you making a list of values")
+#Whenever you use square brackets python recognizes that you making a list of values
 friends = ["Myles", "Jasmine", "Asher", "Meghan", "Morgan", "Bobby"]
 print("As for the index of names"
       "Myles = 0 \n"
@@ -134,30 +131,21 @@ print("As for the index of names"
       "Meghan = 3 \n"
       "Morgan = 4 \n"
       "Bobby = 5 \n"
-      "Negative numbers start with the number 1 when indexing \n"
-      "negative numbers also start from the back of the list"
-      "Myles = -6"
-      "Jasmine = -5"
-      "Asher = -4"
-      "Meghan = -3"
-      "Morgan = -2"
-      "Bobby = -1")
+#(Negative numbers start with the number 1 when indexing negative numbers also start from the back of the list "Myles = -6" "Jasmine = -5" "Asher = -4" "Meghan = -3" "Morgan = -2" "Bobby = -1"
+
 print(friends [0])
 print (friends[-1])
 
 print(space)
-print("Using a colon following the number you want to start with \n"
-      "allows you to only display the list that you want and whatever is after that. ")
+#Using a colon following the number you want to start with allows you to only display the list that you want and whatever is after that.
 print(friends [3:])
 print(space)
 
-print("Using the number, colon =, \n "
-      "then another number would then create a range of the numbers from the list")
+#Using the number, colon =, \n " "then another number would then create a range of the numbers from the list
 print (friends [3:5])
 print(space)
 
-print("Even with this you can change your variables \n"
-      " without changing the entire list")
+#Even with this you can change your variables without changing the entire list
 friends[3] = "Rumay"
 print(friends [3:5])
 print(space)
@@ -189,5 +177,3 @@ print(friends)
 print(space)
 
 print(friends.index ("Meghan"))
-
-
