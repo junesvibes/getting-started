@@ -124,13 +124,7 @@ print(space)
 
 #Whenever you use square brackets python recognizes that you making a list of values
 friends = ["Myles", "Jasmine", "Asher", "Meghan", "Morgan", "Bobby"]
-print("As for the index of names"
-      "Myles = 0 \n"
-      "Jasmine = 1 \n"
-      "Asher = 2 \n"
-      "Meghan = 3 \n"
-      "Morgan = 4 \n"
-      "Bobby = 5 \n"
+#As for the index of names Myles = 0 Jasmine = 1  Asher = 2 Meghan = 3  Morgan = 4  Bobby = 5 
 #(Negative numbers start with the number 1 when indexing negative numbers also start from the back of the list "Myles = -6" "Jasmine = -5" "Asher = -4" "Meghan = -3" "Morgan = -2" "Bobby = -1"
 
 print(friends [0])
