@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36899340-0ffd-4f41-ba69-d207825cd236" name="Default Changelist" comment="fixes">
-      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/returns.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/math.py" />
   </component>
-  <component name="RunManager" selected="Python.function">
+  <component name="RunManager" selected="Python.returns">
     <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getting-started" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="returns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="getting-started" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/returns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.returns" />
         <item itemvalue="Python.function" />
         <item itemvalue="Python.strings" />
         <item itemvalue="Python.tuples" />
         <item itemvalue="Python.listfunction" />
-        <item itemvalue="Python.math" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +199,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599755269500" />
-    <state width="1897" height="295" key="GridCell.Tab.0.bottom" timestamp="1599838198078">
+    <state width="936" height="295" key="GridCell.Tab.0.bottom" timestamp="1599838576568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599838198078" />
-    <state width="1897" height="295" key="GridCell.Tab.0.center" timestamp="1599838198078">
+    <state width="936" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1599838576568" />
+    <state width="936" height="295" key="GridCell.Tab.0.center" timestamp="1599838576568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599838198078" />
-    <state width="1897" height="295" key="GridCell.Tab.0.left" timestamp="1599838198078">
+    <state width="936" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1599838576568" />
+    <state width="936" height="295" key="GridCell.Tab.0.left" timestamp="1599838576568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599838198078" />
-    <state width="1897" height="295" key="GridCell.Tab.0.right" timestamp="1599838198078">
+    <state width="936" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1599838576568" />
+    <state width="936" height="295" key="GridCell.Tab.0.right" timestamp="1599838576568">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1897" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599838198078" />
+    <state width="936" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1599838576568" />
     <state width="1897" height="364" key="GridCell.Tab.1.bottom" timestamp="1599754800366">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
