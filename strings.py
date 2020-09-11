@@ -4,7 +4,7 @@ character_age= "50"
 is_Male= False
 print("There once was a man named " + character_name + ",")
 print("he was " + character_age + " years old")
-
+print(space)
 character_name = "Tommy"
 print("He really liked the name " + character_name + ",")
 print("but didn't like being " + character_age + ".")
@@ -13,7 +13,7 @@ phrase = "Giraffe Academy"
 
 
 print(phrase + " is cool!")
-#Using the addition sign to add things with strings
+#Using the addition sign to add things with strings.
 print(space)
 
 print(phrase.upper() .isupper())
